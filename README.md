@@ -46,6 +46,6 @@
 
  #### Summary
      * More males used citibike than females and the useage of the citibike is higher during the Weekday than on the Weekends
-     *I would like do visualization  of the Top 10 Startstation and Top 10 EndStation from this dataset.
+     *I would like to do visualization  of the Top 10 Startstation and Top 10 EndStation from this dataset.
    
   [link to dashboard]https://public.tableau.com/shared/ZD3C25PBW?:display_count=n&:origin=viz_share_link
