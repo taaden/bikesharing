@@ -41,9 +41,11 @@
    
    * Breakdown of Citibike Usage by Customer Type
    This visualization revealed that there are three times of "Customers" as "Subscribers" using  the Citibike.
+   
    ![image](https://user-images.githubusercontent.com/64270455/199658413-68f15383-b324-484c-a84f-d8dc10950daa.png)
 
- 
-
+ #### Summary
+     * More males used citibike than females and the useage of the citibike is higher during the Weekday than on the Weekends
+     *I would like do visualization  of the Top 10 Startstation and Top 10 EndStation from this dataset.
    
    
